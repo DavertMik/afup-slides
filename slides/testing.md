@@ -225,7 +225,7 @@ Let's talk about implementation
 
 ---
 
-![](/img/pyramid.png)
+![](img/pyramid.png)
 
 ---
 
@@ -242,12 +242,12 @@ Let's talk about implementation
 ---
 
 
-![](/img/pros-cons.svg)
+![](img/pros-cons.svg)
 
 
 ---
 
-![](/img/test-layers.png)
+![](img/test-layers.png)
 
 ---
 
